@@ -19,4 +19,7 @@ Version v1.0
 # Author </br>
 Nyaboke  Marasi
 
+# Setup Instructions </br>
+## Step 1
+Clone this repository using (https://github.com/Oyonka/JOB-CARD.git), or download a ZIP file of the code.
 
