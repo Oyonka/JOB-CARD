@@ -23,3 +23,5 @@ Nyaboke  Marasi
 ## Step 1
 Clone this repository using (https://github.com/Oyonka/JOB-CARD.git), or download a ZIP file of the code.
 
+## Step 2 
+The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened
