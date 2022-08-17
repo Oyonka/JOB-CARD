@@ -25,3 +25,11 @@ Clone this repository using (https://github.com/Oyonka/JOB-CARD.git), or downloa
 
 ## Step 2 
 The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened
+
+# Project Objectives </br>
+## Stage 1
+Workflow Breakdown
+
+## Stage 2
+Implemantion
+
