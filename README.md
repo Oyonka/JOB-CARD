@@ -12,3 +12,7 @@ Enhance the "attended automation" type of RPA - that we just created and you jus
 MS Office
 A zoho account
 A UiPATH account.
+
+# Version </br>
+Version v1.0
+
